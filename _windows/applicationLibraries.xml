@@ -1,0 +1,14 @@
+<application>
+  <component name="libraryTable">
+    <library name="ExtJs" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="ExtJS 4.2" />
+        <option name="frameworkVersion" value="6.6.0" />
+      </properties>
+      <CLASSES>
+        <root url="file://C:/SVN/Web_trunk/BaseData/RosterBaseData/Scripts/RosterBaseData/planoDesktop/node_modules/extjs/ext-all-debug.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
