@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="babel.rc" type="JSON" />
       <mapping ext="config" type="JSON5" />
+      <mapping pattern="planotool" type="PLAIN_TEXT" />
       <mapping pattern="plano-ui-tool" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
