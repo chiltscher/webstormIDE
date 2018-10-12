@@ -6,6 +6,7 @@
       <mapping pattern="planotool" type="PLAIN_TEXT" />
       <mapping pattern="plano-ui-tool" type="PLAIN_TEXT" />
       <mapping pattern="createApp" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
